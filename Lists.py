@@ -8,7 +8,7 @@ Python elements that are ordered , mutable and allow duplicate elements.
 
 # Simple List 
 
-mylist = ['Adit','Parth','Sahil']
+mylist = ['Adit','Parth','Sahil']       #NAMES OF MY FRIENDS, LOL 
 print(mylist)
 
 
