@@ -143,9 +143,7 @@ print(a)
 
 # List_Comprehensions
 
-some_list=[1,2,3,4,5,6,7]
-
-# If we want to add 2 to every item in the list,
+some_list=[1,2,3,4,5,6,7]    # Now, If we want to add 2 to every item in the list,
 
 b= [i + 2 for i in some_list]
 print(b)
