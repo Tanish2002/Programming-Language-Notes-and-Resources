@@ -1,9 +1,5 @@
-#STILL IN PROGRESS
-
 '''
-
 Tuple: ordered, immutable , allow duplicate elements 
-
 '''
 
 # Creating a Tuple
@@ -21,10 +17,8 @@ print(mytuple)
 # Ading only 1 item in a Tuple
 
 '''
-
 When we add only 1 item in a tuple , we have put a comma after it.
 This is because ("Adit") is considered a variable.
-
 '''
 
 one_item_tuple=("Adit",)
@@ -74,9 +68,59 @@ print(num_tuple.count(6))
 # Finding out index of an item in tuple
 
 '''
-
 NOTE : If item is repeated in tuple , the index of the first appearence of item will be returned.
-
 '''
 
 print(num_tuple.index(4))
+
+
+#Converting tuple to list
+
+new_tuple=list(mytuple)
+
+
+# Printing a part of a tuple
+
+a = (1,2,3,4,5,6,7,8,9,10)
+
+b=a[::-1]
+
+'''
+Indexes 2 to 4 will get printed but the fifth will be left one_item_tuple
+
+'''
+
+
+# Giving value to variables from tuple
+
+mytuple = "Adit",14,"Delhi"
+
+name,age,city = mytuple
+
+print(name)
+print(age)
+print(city)
+
+'''
+No. of variables on L.H.S should be equal to no. of items in list in R.H.S
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
