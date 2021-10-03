@@ -5,6 +5,7 @@
 
 Hi there! We're thrilled that you'd like to contribute to this Hacktoberfest repository. Your help is essential for keeping it great.
 
+Do star my repository !
 
 ## Instructions for adding your notes
 
