@@ -15,10 +15,8 @@ Hi there! We're thrilled that you'd like to contribute to this Hacktoberfest rep
 ## Submitting a pull request
 
 0. Clone the repository
-0. Configure and install the dependencies: (See the [README](README.md) for more details)
-0. Make sure the tests pass on your machine: `script/test`
 0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change, add tests, and make sure the tests still pass
+0. Make your change, add notes, and or make valid changes.
 0. Push to your branch and [submit a pull request][pr]
 0. Wait for your pull request to be reviewed and merged!
 
