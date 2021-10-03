@@ -1,4 +1,4 @@
-# Add notes and code snippets ! See Data Types folder for details !
+# Add notes and code snippets ! See Inbuilt-Data_structures folder for details !
 
 print("Hello World")
 
